@@ -1,0 +1,1 @@
+Exemplos da utilização do sensor de rúido (som)
